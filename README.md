@@ -1,0 +1,2 @@
+# Discord++
+Simple Discord API wrapper in C++. The main goal here is to provide a full-featured API wrapper in C++ with few extra libraries, to provide the smallest install space and to make setup as hassle-free as possible.
